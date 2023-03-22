@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Staatliches&display=swap");
+.uppercontainer {
+  font-family: "Outfit", sans-serif;
+}
+
+body {
+  background: #00235b;
+}
+
+.title {
+  font-family: "Staatliches", cursive;
+  font-weight: 500;
+}
+
+.subtitle {
+  color: red;
+  font-family: "Outfit", sans-serif;
+}
